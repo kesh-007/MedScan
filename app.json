@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "medscan_version1",
+    "slug": "medscan_version1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "medscan_version1"
+}
