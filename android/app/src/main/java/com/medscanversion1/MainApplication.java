@@ -4,6 +4,9 @@ import android.app.Application;
 import android.content.Context;
 import android.content.res.Configuration;
 import androidx.annotation.NonNull;
+import org.devio.rn.splashscreen.SplashScreenReactPackage;
+// react-native-splash-screen < 0.3.1
+import com.cboy.rn.splashscreen.SplashScreenReactPackage;
 
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;

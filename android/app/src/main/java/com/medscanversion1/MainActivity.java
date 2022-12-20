@@ -6,6 +6,9 @@ import android.os.Bundle;
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
+import org.devio.rn.splashscreen.SplashScreen; // here
+// react-native-splash-screen < 0.3.1
+import com.cboy.rn.splashscreen.SplashScreen; // here
 
 import expo.modules.ReactActivityDelegateWrapper;
 
@@ -16,7 +19,8 @@ public class MainActivity extends ReactActivity {
     // coloring the background, status bar, and navigation bar.
     // This is required for expo-splash-screen.
     setTheme(R.style.AppTheme);
-    super.onCreate(null);
+    SplashScreen.show(this);
+    super.onCreate(savedInstanceState);
   }
 
   /**
