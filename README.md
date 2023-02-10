@@ -26,3 +26,7 @@ Details Page
 
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/57495317/217986347-b08a4e1e-2954-46c3-895a-fbc8a3082877.png">
 Details Page
+
+### The commenting feature of the app helps to build a strong understanding of the mediciene
+
+
