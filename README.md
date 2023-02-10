@@ -18,3 +18,11 @@ Login Page
 Home Page
 
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/57495317/217983299-5b186f27-d8b2-403d-bffd-3e424be00c32.png">
+
+Scan Page
+
+<img width="140" alt="image" src="https://user-images.githubusercontent.com/57495317/217986276-799cf398-e09e-45dc-8f28-eb534d8c17db.png">
+Details Page
+
+<img width="140" alt="image" src="https://user-images.githubusercontent.com/57495317/217986347-b08a4e1e-2954-46c3-895a-fbc8a3082877.png">
+Details Page
